@@ -1,0 +1,24 @@
+{
+  "name": "servih",
+  "version": "1.0.0",
+  "description": "service promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseAtencio/servih.git"
+  },
+  "keywords": [
+    "promises",
+    "service",
+    "https"
+  ],
+  "author": "jooscode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseAtencio/servih/issues"
+  },
+  "homepage": "https://github.com/JoseAtencio/servih#readme"
+}
