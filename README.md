@@ -32,7 +32,7 @@ _in main.js add servihOptions._
 ```
 import {servihOptions} from 'servih'
 
-servihOptions('token');
+servihOptions('use api token');
 
 ```
 
@@ -61,7 +61,5 @@ export default {
 ```
 
 ## Built with 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
