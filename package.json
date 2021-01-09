@@ -1,7 +1,7 @@
 {
   "name": "servih",
-  "version": "1.0.1",
-  "description": "service promises",
+  "version": "1.0.3",
+  "description": "simple https service provider to optimize works.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
